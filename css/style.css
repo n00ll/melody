@@ -76,6 +76,9 @@ body {
     opacity: 0;
     cursor: pointer;
 }
+path.current-floor {
+    opacity: 1;
+}
 .home-image path:hover {
     opacity: 1;
 }
